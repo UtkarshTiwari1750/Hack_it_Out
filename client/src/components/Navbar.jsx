@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className='container pt-4'>
         <div className='w-[80%] h-[50px] flex mx-auto justify-between items-center'>
-            <img src={logo} alt='logo' className='w-40'/>
+            <img src={logo} alt='logo' className='w-20'/>
             
             <div className='w-[50%] flex justify-between items-center'>
                 <div className="p-2 relative cursor-pointer transition-all duration-300 before:content-[''] before:absolute before:bottom-0 before:left-2 before:w-0 before:h-1 before:rounded-full
